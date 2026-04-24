@@ -1,7 +1,7 @@
 # Introduction to Large Language Models (LLMs)
 
 Este repositório contém meus estudos, códigos e experimentos desenvolvidos durante o curso  
-**Introduction to Large Language Models (LLMs)**, oferecido pela **IBM** por meio da plataforma **Udemy (Enterprise Learning)**.
+**Introduction to Large Language Models (LLMs)**, da plataforma **Udemy (Enterprise Learning)**.
 
 📍 Objetivo: consolidar conceitos fundamentais de LLMs e aplicar o conhecimento em exemplos práticos utilizando Python e bibliotecas modernas de IA.
 
@@ -26,7 +26,6 @@ O curso apresenta uma introdução prática e teórica sobre os **Modelos de Lin
 
 ### 📌 01 – Transformers
 Estudos sobre a arquitetura Transformer e funcionamento dos mecanismos de atenção.
-
 - Conceitos teóricos
 - Implementações simples de Attention e Self-Attention
 
@@ -53,7 +52,6 @@ Utilização da biblioteca Transformers:
 - Question Answering com **BERT**
 - Classificação de textos com **XLNet**
 - Uso de modelos pré-treinados
-
 ---
 
 ## 🛠️ Tecnologias e bibliotecas utilizadas
